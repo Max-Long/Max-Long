@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things technology. I have expieriance with over a dozen programming languages and I have a strong understanding of computer science
 and computer engineering. 
 - 🌱 I’m currently learning more about electronics and circuits.
-- 📫 Find me on my Youtube channel Maximum Technology: https://www.youtube.com/channel/UCVRjwVKRnvDLWQP7pacJqFw/featured 
+- 📫 Find me on LinkedIn: https://www.linkedin.com/in/max-long-24361a217/
 
 <!---
 Max-Long/Max-Long is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
